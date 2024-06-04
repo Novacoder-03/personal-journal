@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Novacoder-03/personal-journal/static/css/main.9879c3bf.css",
+    "main.js": "/Novacoder-03/personal-journal/static/js/main.f9139315.js",
+    "index.html": "/Novacoder-03/personal-journal/index.html",
+    "main.9879c3bf.css.map": "/Novacoder-03/personal-journal/static/css/main.9879c3bf.css.map",
+    "main.f9139315.js.map": "/Novacoder-03/personal-journal/static/js/main.f9139315.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9879c3bf.css",
+    "static/js/main.f9139315.js"
+  ]
+}
